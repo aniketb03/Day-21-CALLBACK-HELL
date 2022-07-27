@@ -1,0 +1,22 @@
+body {
+    justify-content: center;
+    text-align: center;
+}
+
+.container {
+    border: 1px solid red;
+    background-color: rgb(222, 162, 73);
+    height: 680px;
+}
+
+#text {
+    font-size: 100px;
+    justify-content: center;
+    padding-top: 250px;
+}
+
+#msg {
+
+    font-size: 50px;
+    justify-content: center;
+}
